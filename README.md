@@ -1,0 +1,1 @@
+Service to simulate dice roll
